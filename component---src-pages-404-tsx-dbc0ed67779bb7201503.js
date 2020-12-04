@@ -1,2 +1,2 @@
 (window.webpackJsonp=window.webpackJsonp||[]).push([[3],{"i6+/":function(e,t,n){"use strict";n.r(t);var l=n("q1tI"),a=n("qhky"),c=n("Nhdc");t.default=function(){return l.createElement(l.Fragment,null,l.createElement(c.d,null,l.createElement(a.a,null,l.createElement("title",null,"Not Found | Papelzinho")),l.createElement("section",{className:"px-5 py-5 text-center"},l.createElement("h3",null,"404 - Not found"))))}}}]);
-//# sourceMappingURL=component---src-pages-404-tsx-56114d7f7d536f9f8c4a.js.map
+//# sourceMappingURL=component---src-pages-404-tsx-dbc0ed67779bb7201503.js.map
