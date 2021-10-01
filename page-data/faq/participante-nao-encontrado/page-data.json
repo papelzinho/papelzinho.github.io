@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-templates-answer-template-tsx","path":"/faq/participante-nao-encontrado","result":{"data":{"markdownRemark":{"html":"<p>Nesse caso, o ideal é conversar com o organizador do amigo secreto e perguntar se ele excluiu o seu nome do sorteio. É provável que isso tenha acontecido. Assim você pode entender o que aconteceu e pensar em uma solução com o seu grupo.</p>\n<p>Caso não tenha sido esse o caso, só nos avisar que continuamos te auxiliando.</p>","frontmatter":{"slug":"/participante-nao-encontrado","title":"PARTICIPANTE NÃO ENCONTRADO"}}},"pageContext":{"slug":"/participante-nao-encontrado"}},"staticQueryHashes":[]}
+{
+    "componentChunkName": "component---src-templates-answer-template-tsx",
+    "path": "/faq/participante-nao-encontrado",
+    "result": {"data":{"markdownRemark":{"html":"<p>Nesse caso, o ideal é conversar com o organizador do amigo secreto e perguntar se ele excluiu o seu nome do sorteio. É provável que isso tenha acontecido. Assim você pode entender o que aconteceu e pensar em uma solução com o seu grupo.</p>\n<p>Caso não tenha sido esse o caso, só nos avisar que continuamos te auxiliando.</p>","frontmatter":{"slug":"/participante-nao-encontrado","title":"PARTICIPANTE NÃO ENCONTRADO"}}},"pageContext":{"slug":"/participante-nao-encontrado"}},
+    "staticQueryHashes": []}
