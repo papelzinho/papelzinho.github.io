@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfaq=self.webpackChunkfaq||[]).push([[218],{938:function(e,t,n){n.r(t);var l=n(7294),a=n(5414),u=n(4207);t.default=function(){return l.createElement(l.Fragment,null,l.createElement(u.Ar,null,l.createElement(a.q,null,l.createElement("title",null,"Not Found | Papelzinho ™")),l.createElement("section",{className:"px-5 py-5 text-center"},l.createElement("h3",null,"404 - Not found"))))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-f25da1032c992c3f7112.js.map
