@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-answer-template-tsx",
+    "path": "/faq/deleted-email",
+    "result": {"data":{"markdownRemark":{"html":"<p>The organizer of the draw can resend it. You need to ask them to follow these steps:</p>\n<p>Enter the draw group > tap on the participant who needs the resend > tap on \"resend email\" > resend.</p>\n<p>This way, the email will be received again.</p>\n<p>If the draw page has already been visited before, there is a possibility to search the browser history for the draw link.</p>\n<p>Did we help you? If you continue to have problems, just contact us. We are always available!</p>\n<p>Happy secret santa!</p>","frontmatter":{"slug":"/deleted-email","title":"DELETED EMAIL OR MISSING FROM INBOX"}}},"pageContext":{"slug":"/deleted-email"}},
+    "staticQueryHashes": []}

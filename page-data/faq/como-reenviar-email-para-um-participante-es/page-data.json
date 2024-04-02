@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-answer-template-tsx",
+    "path": "/faq/como-reenviar-email-para-um-participante-es",
+    "result": {"data":{"markdownRemark":{"html":"<p>No es necesario volver a realizar todo el sorteo. Puedes reenviar el correo electrónico al participante. Solo sigue estos pasos: entra en el grupo del sorteo > toca en el participante que no recibió el sorteo > toca en \"reenviar correo electrónico\" > reenviar. De esta manera, el participante recibirá el correo electrónico nuevamente.</p>\n<p>Por favor, también verifiquen si el correo electrónico del participante fue escrito correctamente. También es válido pedir que revisen si el correo electrónico fue a la carpeta de SPAM... ¡Esto puede suceder a veces!</p>\n<p>¿Te hemos ayudado? Si sigues teniendo problemas, solo tienes que ponerte en contacto. ¡Estamos siempre a disposición!</p>\n<p>¡Feliz amigo secreto!</p>","frontmatter":{"slug":"/como-reenviar-email-para-um-participante-es","title":"CÓMO REENVIAR UN CORREO ELECTRÓNICO A UN PARTICIPANTE"}}},"pageContext":{"slug":"/como-reenviar-email-para-um-participante-es"}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-answer-template-tsx",
+    "path": "/faq/email-deletado-es",
+    "result": {"data":{"markdownRemark":{"html":"<p>O organizador do sorteio pode reenviar o e-mail. É necessário pedir para que ele siga estes passos:</p>\n<p>Entrar no grupo do sorteio > tocar no participante que precisa do reenvio > tocar em \"reenviar e-mail\" > reenviar.</p>\n<p>Desta forma, o e-mail será recebido novamente.</p>\n<p>Caso a página do sorteio já tenha sido visitada anteriormente, existe a possibilidade de procurar no histórico do navegador o link do sorteio.</p>\n<p>¿Te hemos ayudado? Si sigues teniendo problemas, solo tienes que ponerte en contacto. ¡Estamos siempre a disposición!</p>\n<p>¡Feliz amigo secreto!</p>","frontmatter":{"slug":"/email-deletado-es","title":"CORREO ELECTRÓNICO ELIMINADO O DESAPARECIDO DE LA BANDEJA DE ENTRADA"}}},"pageContext":{"slug":"/email-deletado-es"}},
+    "staticQueryHashes": []}

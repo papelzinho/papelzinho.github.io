@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-answer-template-tsx",
+    "path": "/faq/participante-nao-encontrado-es",
+    "result": {"data":{"markdownRemark":{"html":"<p>En este caso, lo ideal es hablar con el organizador del amigo secreto y preguntar si eliminó tu nombre del sorteo. Es probable que eso haya sucedido. Así podrás entender lo que ocurrió y pensar en una solución con tu grupo.</p>\n<p>Si ese no fue el caso, solo avísanos y seguiremos ayudándote.</p>","frontmatter":{"slug":"/participante-nao-encontrado-es","title":"PARTICIPANTE NO ENCONTRADO"}}},"pageContext":{"slug":"/participante-nao-encontrado-es"}},
+    "staticQueryHashes": []}

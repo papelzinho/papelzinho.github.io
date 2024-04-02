@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-answer-template-tsx",
+    "path": "/faq/como-descubrir-quien-es-tu-amigo-secreto",
+    "result": {"data":{"markdownRemark":{"html":"<p>Después del sorteo, todos los participantes reciben un correo electrónico para descubrir quién es su amigo secreto. En el cuerpo del correo electrónico, hay un botón rojo que dice \"Descubrir quién te tocó\", debes hacer clic en ese botón.<br>\nLuego, se abrirá una nueva página, haces clic donde dice \"Ver a quién le tocó\". Enseguida, se mostrará un cuadro con el nombre de tu amigo secreto.</p>\n<p>Si no has recibido ningún correo electrónico, verifica tu bandeja de SPAM o pide al organizador del grupo que te lo reenvíe dentro de la aplicación.</p>\n<p>¿Te ayudamos? Si aún tienes preguntas, simplemente ponte en contacto. ¡Siempre estamos disponibles!</p>\n<p>¡Feliz Amigo Secreto!</p>","frontmatter":{"slug":"/como-descubrir-quien-es-tu-amigo-secreto","title":"CÓMO DESCUBRIR QUIÉN ES TU AMIGO SECRETO"}}},"pageContext":{"slug":"/como-descubrir-quien-es-tu-amigo-secreto"}},
+    "staticQueryHashes": []}

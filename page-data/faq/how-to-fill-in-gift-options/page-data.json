@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-answer-template-tsx",
+    "path": "/faq/how-to-fill-in-gift-options",
+    "result": {"data":{"markdownRemark":{"html":"<p>To fill in the gift options, simply open the email received after the draw, then click on \"Find out who you got\".<br>\nNext, a new page will open with our Online Mural where the name of the friend you got will be displayed.<br>\nAfter closing the pop-up, you will see the list of gifts for your friend, the other participants, and you can also fill in your own list of gifts.<br></p>\n<p>To make the game more fun, don't forget to ask all group members to fill in the options with the gifts they want to receive! This way, nobody will complain about their gift! 😉</p>\n<p>After filling in, click on \"save\". The mural will be updated with the gift information.</p>\n<p>Did we help you? If you still have questions, just get in touch. We are always available!</p>\n<p>Happy Secret Santa!</p>","frontmatter":{"slug":"/how-to-fill-in-gift-options","title":"HOW TO FILL IN GIFT OPTIONS"}}},"pageContext":{"slug":"/how-to-fill-in-gift-options"}},
+    "staticQueryHashes": []}

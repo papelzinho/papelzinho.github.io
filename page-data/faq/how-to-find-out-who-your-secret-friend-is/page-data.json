@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-answer-template-tsx",
+    "path": "/faq/how-to-find-out-who-your-secret-friend-is",
+    "result": {"data":{"markdownRemark":{"html":"<p>After the draw, all participants receive an email to find out who their secret friend is. In the body of the email, there's a red button that says \"Find out who you got,\" you need to click on that button.<br>\nThen, a new page will open, you click where it says \"See who I got.\" Soon after, a box with the name of your secret friend will be displayed.</p>\n<p>If you haven't received any emails, check your SPAM box or ask the group organizer to resend it to you within the app.</p>\n<p>Did we help you? If you still have questions, just get in touch. We are always available!</p>\n<p>Happy Secret Santa!</p>","frontmatter":{"slug":"/how-to-find-out-who-your-secret-friend-is","title":"HOW TO FIND OUT WHO YOUR FRIEND IS"}}},"pageContext":{"slug":"/how-to-find-out-who-your-secret-friend-is"}},
+    "staticQueryHashes": []}

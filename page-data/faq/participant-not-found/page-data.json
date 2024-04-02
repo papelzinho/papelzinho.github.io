@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-answer-template-tsx",
+    "path": "/faq/participant-not-found",
+    "result": {"data":{"markdownRemark":{"html":"<p>In this case, the best course of action is to talk to the Secret Santa organizer and ask if they excluded your name from the draw. It's likely that this has occurred. This way, you can understand what happened and discuss a solution with your group.</p>\n<p>If this wasn't the case, just let us know, and we'll continue to assist you.</p>","frontmatter":{"slug":"/participant-not-found","title":"PARTICIPANT NOT FOUND"}}},"pageContext":{"slug":"/participant-not-found"}},
+    "staticQueryHashes": []}

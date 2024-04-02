@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-answer-template-tsx",
+    "path": "/faq/how-to-edit-the-email-of-a-participant",
+    "result": {"data":{"markdownRemark":{"html":"<p>You don't need to redo the entire draw. You can edit the email of this participant. Just follow these steps: enter the draw group within the app > tap on the participant to be edited > tap on \"edit participant\" > resend. This way, the participant will receive the email that didn't reach them. This process does not alter the overall draw.</p>\n<p>Did we help you? If you continue to have problems, just get in touch. We are always available!</p>\n<p>Happy Secret Santa!</p>","frontmatter":{"slug":"/how-to-edit-the-email-of-a-participant","title":"HOW TO EDIT THE EMAIL OF A PARTICIPANT"}}},"pageContext":{"slug":"/how-to-edit-the-email-of-a-participant"}},
+    "staticQueryHashes": []}

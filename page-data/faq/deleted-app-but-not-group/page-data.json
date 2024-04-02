@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-answer-template-tsx",
+    "path": "/faq/deleted-app-but-not-group",
+    "result": {"data":{"markdownRemark":{"html":"<p>In this case, we can try to help you! We need you to send us the following information on our WhatsApp (<a href=\"https://api.whatsapp.com/message/4ZGE273VAQXKP1\">https://api.whatsapp.com/message/4ZGE273VAQXKP1</a>):</p>\n<p>Name of the Secret Santa group\nName of the participant who needs the resend\nEmail address of the participant who needs the resend\nThis way, we will try to resend it!</p>\n<p>We advise that the application remains installed and that the draw group is not deleted at least until the day of gift exchange.</p>\n<p>Awaiting the information.</p>\n<p>Happy Secret Santa!</p>","frontmatter":{"slug":"/deleted-app-but-not-group","title":"DELETED THE APP (BUT DIDN'T DELETE THE GROUP) AND NEEDS TO RECOVER INFORMATION"}}},"pageContext":{"slug":"/deleted-app-but-not-group"}},
+    "staticQueryHashes": []}

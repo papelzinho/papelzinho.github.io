@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-answer-template-tsx",
+    "path": "/faq/como-editar-o-email-de-um-participante-es",
+    "result": {"data":{"markdownRemark":{"html":"<p>No es necesario volver a realizar todo el sorteo. Puedes editar el correo electrónico de ese participante. Solo sigue estos pasos: entra en el grupo del sorteo dentro de la aplicación > toca en el participante que se va a editar > toca en \"editar participante\" > reenviar. De esta manera, el participante recibirá el correo electrónico que no le llegó. Este proceso no altera el sorteo general.</p>\n<p>¿Te ayudamos? Si sigues teniendo problemas, solo tienes que ponerte en contacto. ¡Estamos siempre a disposición!</p>\n<p>¡Feliz amigo secreto!</p>","frontmatter":{"slug":"/como-editar-o-email-de-um-participante-es","title":"CÓMO EDITAR EL CORREO ELECTRÓNICO DE UN PARTICIPANTE"}}},"pageContext":{"slug":"/como-editar-o-email-de-um-participante-es"}},
+    "staticQueryHashes": []}

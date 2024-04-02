@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-answer-template-tsx",
+    "path": "/faq/deleted-group",
+    "result": {"data":{"markdownRemark":{"html":"<p>When deciding to delete the group, the organizer is notified that all information will be lost and that there will be no possibility of resending emails. Unfortunately, we cannot recover...</p>\n<p>Our suggestion is to conduct a new draw. But please note: we advise that the application remains installed and that the draw group is not deleted at least until the day of the gift exchange. Please inform the organizer. This way, nobody loses the information.</p>\n<p>Another possibility is to ask someone trustworthy who is not participating in the draw to look at who got whom to find out who the missing participant is and pass it on to the person who didn't see.</p>\n<p>Did we help you? If you still have doubts, just contact us. We are always available!</p>","frontmatter":{"slug":"/deleted-group","title":"DELETED GROUP"}}},"pageContext":{"slug":"/deleted-group"}},
+    "staticQueryHashes": []}
