@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-answer-template-tsx",
+    "path": "/faq/como-fazer-um-grupo-com-dependentes",
+    "result": {"data":{"markdownRemark":{"html":"<p>Após o sorteio, todos os participantes recebem um e-mail para descobrir quem é seu amigo secreto. No corpo do e-mail tem um botão vermelho escrito “Descubra quem você tirou”, é preciso clicar nesse botão.<br>\nEm seguida, vai abrir uma nova página, você clica onde está escrito “Ver quem eu tirei”. Logo depois será exibida uma caixinha com o nome do seu amigo secreto.</p>\n<p>Caso não tenha recebido nenhum e-mail, verifique na sua caixa de SPAM ou peça para o organizador do grupo fazer o reenvio para você dentro do app.</p>\n<p>Te ajudamos? Caso continue com dúvidas, só entrar em contato. Estamos sempre a disposição!</p>\n<p>Bom amigo secreto!</p>","frontmatter":{"slug":"/como-fazer-um-grupo-com-dependentes","title":"COMO FAZER UM GRUPO COM DEPENDENTES"}}},"pageContext":{"slug":"/como-fazer-um-grupo-com-dependentes"}},
+    "staticQueryHashes": []}
